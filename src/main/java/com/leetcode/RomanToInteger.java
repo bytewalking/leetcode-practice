@@ -1,4 +1,4 @@
-package com.pangoo;
+package com.leetcode;
 
 import java.util.Map;
 
